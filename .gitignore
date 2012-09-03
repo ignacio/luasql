@@ -1,0 +1,3 @@
+src/ls_mysql.o
+src/luasql.o
+luasql/mysql.so
